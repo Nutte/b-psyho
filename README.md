@@ -31,6 +31,3 @@
 
 ### Incoming Call UI
 ![Incoming Call](https://dev-to-uploads.s3.amazonaws.com/i/1qk47qwka8iz0m43tmdu.png)
-
-### Video Chat Session
-![Video Chat](https://dev-to-uploads.s3.amazonaws.com/i/80q8j4yxg6dp8xgb36ql.png)
